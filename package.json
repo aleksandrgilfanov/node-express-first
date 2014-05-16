@@ -1,0 +1,9 @@
+{
+  "name": "node-express-experiments",
+  "description": "my first experience with express",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.x"
+  }
+}
